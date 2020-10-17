@@ -1,5 +1,5 @@
 paperscape-headstart
-# Paperscape - headstart
+# Paperscape - Headstart
 
 
 Based on "Paperscape" at https://paperscape.org/
